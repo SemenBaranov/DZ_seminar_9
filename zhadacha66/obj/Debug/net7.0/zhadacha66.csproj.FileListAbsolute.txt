@@ -1,0 +1,15 @@
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\bin\Debug\net7.0\zhadacha66.exe
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\bin\Debug\net7.0\zhadacha66.deps.json
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\bin\Debug\net7.0\zhadacha66.runtimeconfig.json
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\bin\Debug\net7.0\zhadacha66.dll
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\bin\Debug\net7.0\zhadacha66.pdb
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.csproj.AssemblyReference.cache
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.AssemblyInfoInputs.cache
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.AssemblyInfo.cs
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.csproj.CoreCompileInputs.cache
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.dll
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\refint\zhadacha66.dll
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.pdb
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\zhadacha66.genruntimeconfig.cache
+C:\Users\Семен\Desktop\GB_CS_SEMINARS\sem9\zhadacha66\obj\Debug\net7.0\ref\zhadacha66.dll
